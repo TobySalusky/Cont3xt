@@ -2,7 +2,7 @@
 
 > This version of **Cont3xt** is a prototype `(and is no longer actively maintained)`. 
 > 
-> See the in-development version [here](https://github.com/arkime/arkime/tree/cont3xt6)!
+> See the in-development version [here](https://arkime.com/cont3xt)!
 
 ![cont3xt screenshot](https://github.com/TobySalusky/cont3xt/blob/master/public/images/Capture.PNG?raw=true)
 
